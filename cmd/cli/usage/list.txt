@@ -1,0 +1,3 @@
+Usage: task-cli list [-h] [--help]
+List all tasks
+    -h,--help: Display this message

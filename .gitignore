@@ -1,0 +1,5 @@
+bin/task-cli
+bin/taskd
+
+dist/task-cli
+dist/taskd

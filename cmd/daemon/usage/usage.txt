@@ -1,0 +1,4 @@
+Usage: taskd [-h] [--help] [--baseUrl]
+Task management daemon
+    -h,--help: Display this message
+    --baseUrl: Path of database (default /var/gotask)

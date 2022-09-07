@@ -1,0 +1,4 @@
+Usage: task-cli info [-h] [--help] <id>
+Get info about task
+    -h,--help: Display this message
+           id: Id of task

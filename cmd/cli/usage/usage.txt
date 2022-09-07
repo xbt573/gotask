@@ -1,0 +1,5 @@
+Usage: task-cli [-h] [--help] <mode>
+CLI for taskd
+    -h,--help: Display this message
+         mode: Can be one of this:
+               (new, list, info, delete)

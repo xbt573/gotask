@@ -1,0 +1,6 @@
+Usage: task-cli new [-h] [--help] <name> [description] [priority]
+Create task
+    -h,--help: Display this message
+         name: Name of task (string)
+  description: Description of task (string)
+     priority: Priority of task (number)

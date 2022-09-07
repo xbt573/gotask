@@ -1,0 +1,4 @@
+Usage: task-cli delete [-h] [--help] <id>
+Delete task with specified id
+    -h,--help: Display this message
+           id: Id of task
